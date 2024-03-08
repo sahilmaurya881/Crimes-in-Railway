@@ -1,3 +1,5 @@
 The research examines a range of offenses, from theft to assault, and finds a recurrent problem that risks passenger safety and system effectiveness.
-Inadequate security and congestion are two primary reasons the study pinpoints as contributing to this issue using a combination of quantitative data and qualitative views.
-Increased security presence, technology advancements, and better awareness among employees and passengers are some of the remedies that have been suggested
+Undertook a comprehensive investigation into railway crime within India, delving into various offenses from theft to assault. 
+Utilizing a blend of quantitative data analysis and qualitative insights, the study pinpointed recurrent challenges threatening passenger safety and system effectiveness. 
+Identified root causes including insufficient security measures and congestion. Proposed solutions encompassing heightened security presence, technological advancements, and enhanced awareness among stakeholders.
+Emphasized the urgency of addressing railway crime to enhance operational efficiency and ensure passenger safety, offering valuable insights for policymakers and stakeholders in the railway sector.
